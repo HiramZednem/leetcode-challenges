@@ -1,4 +1,4 @@
-package com.debuggeandoideas;
+package com.debuggeandoideas.softtek;
 
 import java.util.Scanner;
 
